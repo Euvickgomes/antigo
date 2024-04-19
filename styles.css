@@ -1,0 +1,251 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #013367;
+    color: #fff;
+    text-align: center;
+    padding: 30px;
+}
+
+.container {
+    position: relative;
+}
+
+img {
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 250px;
+    height: 50px;
+}
+
+nav {
+    background-color: #013367;
+    padding: 5px;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+
+nav ul li {
+    margin-right: 10px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.sidebar {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 120px;
+    height: 90%;
+    background-color: #013367;
+    color: #fff;
+    padding-top: 60px;
+}
+
+.sidebar ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.sidebar ul li {
+    padding: 10px 15px;
+ 
+}
+
+.sidebar ul li a {
+    color: #fff;
+    text-decoration: none;
+    text-align: justify;
+}
+
+.sidebar ul li a:hover {
+    color: #f0f0f0;
+}
+
+section {
+    padding: 20px;
+    right: 100px;
+    text-align: center;
+}
+.tabela {
+    border-collapse: collapse;
+    text-align: center;
+    float: right;
+    margin-left: 8%;
+}
+
+.tabela th {
+    border: 1px solid #000;
+    background-color: #ACDAE7;
+    padding: 2px;
+    text-align: right;
+    font-size: 14px;
+    color: blue;
+    font-weight: lighter;
+
+}
+
+.yellow{
+    border: 1px solid #000;
+    background-color: #FFCB66;
+    width: 60%;
+    text-align: center;
+}
+
+.white{
+    border: 1px solid #000;
+    background-color: white;
+    width: 40%;
+    text-align: center;
+}
+
+.one{
+    text-align: left;
+    font-weight: bold;
+    font-size: 13px;
+    color: #013367;
+}
+
+.enter{
+    text-align: left;
+    font-weight: bold;
+    font-size: 13px;
+    color: #013367;
+}
+
+.two{
+    text-align: left;
+    font-weight: bold;
+    font-size: 13px;
+    color: #013367;
+}
+
+.tree{
+    text-align: left;
+    font-weight: bold;
+    font-size: 13px;
+    color: #013367;
+}
+
+.five{ 
+    text-align: left;
+    font-weight: bold;
+    font-size: 13px;
+    color: #013367;
+}
+
+.six{
+    text-align: left;
+    font-weight: bold;
+    font-size: 13px;
+    color: black;
+}
+
+.seven{
+    text-align: left;
+    font-weight: bold;
+    font-size: 13px;
+    color: black;
+}
+
+.nine{
+    color: red;
+    text-align: left;
+    font-size: 12px;
+}
+
+.ten{
+    color: red;
+    text-align: left;
+    font-size: 12px;
+}
+
+.eleven{
+    color: red;
+    text-align: left;
+    font-size: 12px;
+}
+
+.primeiro{
+    text-align: left;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.segundo{
+    text-align: left;
+    font-size: 15px;
+}
+
+.terceiro{
+    text-align: center;
+    font-size: 17px;
+    color: red;
+    font-weight: lighter;
+}
+
+.quarto{
+    text-align: left;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.quinto{
+    text-align: left;
+    font-size: 15px;
+}
+
+.sexto{
+    text-align: left;
+    font-size: 15px;
+}
+
+.setimo{
+    text-align: right;
+    font-size: 13px;
+    color: red;
+}
+
+.oitavo{
+    text-align: center;
+    font-size: 17px;
+    color: #b41c1c;
+}
+
+.nono{
+    text-align: left;
+    font-size: 10px;
+    color: #808080;
+}
+
+.decimo{
+    text-align: center;
+    font-size: 10px;
+    color: red;
+    padding-bottom: 40px;
+}
+
+footer {
+    background-color: #013367;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
